@@ -1,0 +1,9 @@
+{
+  "name": "AgriSahayak - Agriculture Guide",
+  "short_name": "AgriSahayak",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5ed",
+  "theme_color": "#1e5c3a",
+  "description": "Bilingual crop and farm guidance for Indian farmers."
+}
